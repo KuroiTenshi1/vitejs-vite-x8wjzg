@@ -1,0 +1,52 @@
+{
+  "hr": {
+    "display": "HR",
+    "quantity": 11,
+    "prices": [
+      {
+        "level": 1,
+        "price": 10.5,
+        "max": 9
+      },
+      {
+        "level": 10,
+        "price": 10,
+        "max": 20
+      },
+      {
+        "level": 20,
+        "price": 9,
+        "max": 30
+      },
+      {
+        "level": 30,
+        "price": 8
+      }
+    ]
+  },
+  "recruitment": {
+    "display": "Recruitment",
+    "quantity": 2000,
+    "prices": [
+      {
+        "level": 1,
+        "price": 10.5,
+        "max": 99
+      },
+      {
+        "level": 100,
+        "price": 10,
+        "max": 199
+      },
+      {
+        "level": 300,
+        "max": 30,
+        "price": 9
+      },
+      {
+        "level": 400,
+        "price": 8
+      }
+    ]
+  }
+}
